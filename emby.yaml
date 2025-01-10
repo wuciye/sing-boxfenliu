@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "rules": [
+      {
+        "domain": [
+          "pornemby.com",
+          "pub1.emby.wtf",
+          "pub1.term.wtf",
+          "pub2.emby.wtf",
+          "pub2.term.wtf",
+          "pub3.emby.wtf",
+          "pub3.term.wtf",
+          "us.nanflix.net",
+          "emby.my",
+          "cdn.emby.my",
+          "ccdn.emby.my",
+          "z.sfcj.org",
+          "jg.sfcj.org",
+          "ju.sfcj.org",
+          "cf.sfcj.org",
+          "192.99.35.111",
+          "208.87.242.145",
+          "185.233.105.19",
+          "emby-qdz-jp.pppp.us.kg",
+          "emby-qdz-sg.pppp.us.kg",
+          "us.nanflix.net",
+          "lite.saturday.video"
+        ]
+        }
+    ]
+   
+}
