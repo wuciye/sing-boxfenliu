@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "rules": [
+      {
+        "domain": [
+          "www.javbus.com",
+          "www.mgstage.com"
+         ],
+        "domain_suffix": [
+        "javbus.com",
+        "mgstage.com"
+
+      ]
+        }
+    ]
+   
+}
