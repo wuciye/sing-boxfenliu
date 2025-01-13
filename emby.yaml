@@ -25,6 +25,17 @@
           "qdz-sg.vfing.de",
           "qdzcdn.vfing.de"
         ],
+        "domain_suffix": [
+          "emby.wtf",
+          "term.wtf",
+          "nanflix.net",
+          "emby.my",
+          "saturday.video",
+          "sfcj.org",
+          "vfing.de",
+          "misty.cx",
+          "pornemby.com"
+         ], 
         "ip_cidr": [
           "192.99.35.111/16",
           "208.87.242.145/16",
