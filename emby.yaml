@@ -31,7 +31,9 @@
           "emby.jingzhe.pro",
           "stream2.jingzhe.pro",
           "tanhuatv.site",
-          "free.28.al"
+          "free.28.al",
+          "2pfdml.mobaiemby.site",
+          "emby-myg-de.vfing.de:443"
         ],
         "domain_suffix": [
           "emby.wtf",
@@ -45,7 +47,8 @@
           "pornemby.com",
           "vfing.de",
           "ocdlive.com",
-          "jingzhe.pro"
+          "jingzhe.pro",
+          "mobaiemby.site"
          ], 
         "ip_cidr": [
           "192.99.35.111/16",
