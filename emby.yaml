@@ -35,7 +35,8 @@
           "2pfdml.mobaiemby.site",
           "emby-myg-de.vfing.de",
           "emby3.mcjoker.xyz",
-          "alist7.eu.org"
+          "alist7.eu.org",
+          "emby.nebula-media.org"
         ],
         "domain_suffix": [
           "emby.wtf",
@@ -51,7 +52,8 @@
           "ocdlive.com",
           "jingzhe.pro",
           "mobaiemby.site",
-          "mcjoker.xyz"
+          "mcjoker.xyz",
+          "nebula-media.org"
          ], 
         "ip_cidr": [
           "192.99.35.111/16",
