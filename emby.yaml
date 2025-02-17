@@ -37,7 +37,8 @@
           "emby3.mcjoker.xyz",
           "alist7.eu.org",
           "emby.nebula-media.org",
-          "cdn1.nebula-media.org"
+          "cdn1.nebula-media.org",
+          "a.nel.cloudflare.com"
         ],
         "domain_suffix": [
           "emby.wtf",
