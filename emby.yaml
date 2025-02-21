@@ -38,7 +38,8 @@
           "alist7.eu.org",
           "emby.nebula-media.org",
           "cdn1.nebula-media.org",
-          "a.nel.cloudflare.com"
+          "a.nel.cloudflare.com",
+          "2pfdml.mobaiemby.site"
         ],
         "domain_suffix": [
           "emby.wtf",
@@ -55,7 +56,8 @@
           "jingzhe.pro",
           "mobaiemby.site",
           "mcjoker.xyz",
-          "nebula-media.org"
+          "nebula-media.org",
+          "mobaiemby.site"
          ], 
         "ip_cidr": [
           "192.99.35.111/16",
