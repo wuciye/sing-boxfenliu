@@ -1,0 +1,17 @@
+{
+  
+  "rules": [
+      {
+        "domain": [
+          "w2.pandalive.co.kr",
+          "www.sooplive.co.kr"
+         ],
+        "domain_keyword": [
+        "pandalive",
+        "sooplive"
+
+      ]
+        }
+    ],
+   "version": 1
+}
