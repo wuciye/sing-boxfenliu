@@ -4,13 +4,17 @@
       {
         "domain": [
           "www.javbus.com",
-          "www.mgstage.com"
+          "www.mgstage.com",
+          "pornhub.com"
          ],
         "domain_suffix": [
         "javbus.com",
+        "mgstage.com",
         "mgstage.com"
-
-      ]
+        ],
+        "domain_keyword": [
+        "pornhub"
+         ]
         }
     ],
    "version": 3
