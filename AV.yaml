@@ -1,20 +1,22 @@
 {
-  
   "rules": [
-      {
-        "domain": [
-          "www.javbus.com",
-          "www.mgstage.com",
-          "pornhub.com"
-         ],
-        "domain_suffix": [
+    {
+      "domain": [
+        "www.javbus.com",
+        "www.mgstage.com",
+        "pornhub.com"
+      ],
+      "domain_suffix": [
         "javbus.com",
-        "mgstage.com"
-        ],
-        "domain_keyword": [
+        "mgstage.com",
+        "pornhub.com",
+        "pornhubpremium.com",
+        "phncdn.com"
+      ],
+      "domain_keyword": [
         "pornhub"
-         ]
-       }
-    ],
-   "version": 3
+      ]
+   }
+  ],
+  "version": 3
 }
