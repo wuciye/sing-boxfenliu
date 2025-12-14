@@ -1,8 +1,9 @@
 {
-  "version": 3,
+  "version": 1,
   "rules": [
     {
-      "domain": [
+      "type": "domain",
+      "value": [
         "music.163.com",
         "interface.music.163.com",
         "api.iplay.163.com",
@@ -16,13 +17,15 @@
       ]
     },
     {
-      "domain_suffix": [
+      "type": "domain_suffix",
+      "value": [
         "163.com",
         "126.net"
       ]
     },
     {
-      "ip_cidr": [
+      "type": "ip_cidr",
+      "value": [
         "101.71.154.241/32",
         "103.126.92.132/32",
         "103.126.92.133/32",
@@ -37,7 +40,8 @@
       ]
     },
     {
-      "ip_cidr6": [
+      "type": "ip_cidr6",
+      "value": [
         "240e:928:1400:10::/112",
         "240e:928:1400:11::/112"
       ]
