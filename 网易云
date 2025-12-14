@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "rules": [
+    // ===== DOMAIN =====
+    { "domain_suffix": "163.com" },
+    { "domain_suffix": "126.net" },
+    { "domain": "music.163.com" },
+    { "domain": "interface.music.163.com" },
+    { "domain": "api.iplay.163.com" },
+    { "domain": "apm3.music.163.com" },
+    { "domain": "apm.music.163.com" },
+    { "domain": "clientlog.music.163.com" },
+    { "domain": "iadmusicmat.music.163.com" },
+    { "domain": "music.httpdns.c.163.com" },
+    { "domain": "netease.im" },
+
+    // ===== SPECIAL =====
+    { "domain": "m10.music.126.net" },
+    { "domain": "m701.music.126.net" },
+    { "domain": "m702.music.126.net" },
+    { "domain": "m703.music.126.net" },
+
+    // ===== IP CIDR =====
+    // 官方常见网易云音乐 CDN / 服务 IP
+    { "ip_cidr": "101.71.154.241/32" },
+    { "ip_cidr": "103.126.92.132/32" },
+    { "ip_cidr": "103.126.92.133/32" },
+    { "ip_cidr": "103.126.92.134/32" },
+    { "ip_cidr": "59.111.160.195/32" },
+    { "ip_cidr": "59.111.160.197/32" },
+    { "ip_cidr": "59.111.181.38/32" },
+    { "ip_cidr": "59.111.181.60/32" },
+    { "ip_cidr": "59.111.160.220/32" },
+    { "ip_cidr": "59.111.19.33/32" },
+    { "ip_cidr": "59.111.19.58/32" },
+
+    // 网易云 IPv6（部分线路可能出现）
+    { "ip_cidr": "240e:928:1400:10::/112" },
+    { "ip_cidr": "240e:928:1400:11::/112" },
+
+    // ===== PROCESS NAME（视情况启用 —— Windows/Android 可用）=====
+    // 可注释掉不用
+    // { "process_name": "NeteaseMusic.exe" },
+    // { "process_name": "com.netease.cloudmusic" },
+
+    // ===== PORT =====
+    // 网易云部分接口使用 80/443/8080
+    { "port": 80 },
+    { "port": 443 },
+    { "port": 8080 }
+  ]
+}
