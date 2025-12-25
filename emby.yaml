@@ -1,4 +1,4 @@
-{
+={
   "rules": [
       {
         "domain": [
@@ -41,8 +41,7 @@
           "a.nel.cloudflare.com",
           "2pfdml.mobaiemby.site",
           "short.longemby.com"
-
-        ],
+         ],
         "domain_suffix": [
           "emby.wtf",
           "term.wtf",
