@@ -39,7 +39,9 @@
           "emby.nebula-media.org",
           "cdn1.nebula-media.org",
           "a.nel.cloudflare.com",
-          "2pfdml.mobaiemby.site"
+          "2pfdml.mobaiemby.site",
+          "short.longemby.com"
+
         ],
         "domain_suffix": [
           "emby.wtf",
