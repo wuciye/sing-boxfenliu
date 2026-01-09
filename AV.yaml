@@ -3,13 +3,18 @@
     {
       "domain": [
         "www.javbus.com",
-        "www.mgstage.com"
+        "www.mgstage.com",
+        "www.dmm.com",
+        "www.dmm.co"
       ],
       "domain_suffix": [
         "javbus.com",
-        "mgstage.com"
+        "mgstage.com",
+        "dmm.com",
+        "dmm.co"
       ]
     }
   ],
   "version": 3
 }
+
