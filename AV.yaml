@@ -12,7 +12,8 @@
         "mgstage.com",
         "dmm.com",
         "dmm.co",
-        ".dmm.co.jp"
+        ".dmm.co.jp",
+        "extension.com"
       ],
       "domain_keyword": [
         "dmm",
@@ -22,6 +23,7 @@
   ],
   "version": 3
 }
+
 
 
 
