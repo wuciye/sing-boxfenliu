@@ -6,7 +6,6 @@
         "www.mgstage.com",
         "www.dmm.com",
         "www.dmm.co.jp"
-
       ],
       "domain_suffix": [
         "javbus.com",
@@ -22,6 +21,7 @@
   ],
   "version": 3
 }
+
 
 
 
