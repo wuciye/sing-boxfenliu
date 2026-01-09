@@ -5,13 +5,15 @@
         "www.javbus.com",
         "www.mgstage.com",
         "www.dmm.com",
-        "www.dmm.co"
+        "www.dmm.co",
+
       ],
       "domain_suffix": [
         "javbus.com",
         "mgstage.com",
         "dmm.com",
-        "dmm.co"
+        "dmm.co",
+        "dmm.co.jp"
       ],
       "domain_keyword": [
         "dmm"
@@ -20,5 +22,6 @@
   ],
   "version": 3
 }
+
 
 
