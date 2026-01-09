@@ -12,9 +12,13 @@
         "mgstage.com",
         "dmm.com",
         "dmm.co"
+      ],
+      "domain_keyword": [
+        "dmm"
       ]
     }
   ],
   "version": 3
 }
+
 
