@@ -40,7 +40,8 @@
           "cdn1.nebula-media.org",
           "a.nel.cloudflare.com",
           "2pfdml.mobaiemby.site",
-          "short.longemby.com"
+          "short.longemby.com",
+          "emby.dnscf.dpdns.org"
          ],
         "domain_suffix": [
           "emby.wtf",
@@ -58,7 +59,8 @@
           "mobaiemby.site",
           "mcjoker.xyz",
           "nebula-media.org",
-          "mobaiemby.site"
+          "mobaiemby.site",
+          "dnscf.dpdns.org"
          ], 
         "ip_cidr": [
           "192.99.35.111/16",
