@@ -41,7 +41,8 @@
           "a.nel.cloudflare.com",
           "2pfdml.mobaiemby.site",
           "short.longemby.com",
-          "emby.dnscf.dpdns.org"
+          "emby.dnscf.dpdns.org",
+          "lite.saturdayvideo.top"
          ],
         "domain_suffix": [
           "emby.wtf",
@@ -60,7 +61,8 @@
           "mcjoker.xyz",
           "nebula-media.org",
           "mobaiemby.site",
-          "dnscf.dpdns.org"
+          "dnscf.dpdns.org",
+          "saturdayvideo.top"
          ], 
         "ip_cidr": [
           "192.99.35.111/16",
@@ -75,4 +77,5 @@
     ],
    "version": 3
 }
+
 
